@@ -56,3 +56,7 @@ h1 {
 body *{
   font-weight: 100 !important;
 }
+
+input[type="submit" i] {
+
+	align-items: center;
