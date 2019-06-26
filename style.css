@@ -58,7 +58,7 @@ body *{
   font-weight: 100 !important;
 }
 
-.clear {
-	position: flex;
-	align-items: center
+div.clear {
+	display: flex;
+	justify-content: center;
 }
